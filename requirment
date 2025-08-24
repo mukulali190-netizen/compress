@@ -1,2 +1,2 @@
-echo "python-telegram-bot==21.4" > requirements.txt
+echo "python-telegram-bot==21.4" > 
 pip install -r requirements.txt
