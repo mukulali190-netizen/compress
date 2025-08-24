@@ -1,2 +1,1 @@
-echo "python-telegram-bot==21.4" > 
-pip install -r requirements.txt
+pip install git+https://github.com/python-telegram-bot/python-telegram-bot.git
